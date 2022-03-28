@@ -6,7 +6,7 @@
         //DataTable
 
         $('#clients').DataTable({
-            select: true
+            select: true    
         });
 
         //Hide Flash message
